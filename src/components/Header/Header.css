@@ -1,0 +1,15 @@
+.header-area {
+  background-image: url("https://images.pexels.com/photos/9604948/pexels-photo-9604948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"),
+  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  height: 580px;
+  width: 100%;
+  
+
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
+}
+
+

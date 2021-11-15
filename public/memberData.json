@@ -1,0 +1,80 @@
+[
+  {
+    "id": "01",
+    "package1": "Diamond Package, Save 33%",
+    "package2": "Silver Package, Save 25%",
+    "package3": "Regular Package, Save 15%",
+    "cabincharge": "Based on Package",
+    "homefacilities": "For any Package",
+    "rapidservice": "If need provide Helicopter Sevice",
+    "service": "Eye Care Treatment",
+    "yearlycharge": "$ 1000",
+    "description": "Eyes are very important organ in our body, so we should take care of it. It's role is really important",
+    "img": "https://images.pexels.com/photos/5842846/pexels-photo-5842846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": "02",
+    "package1": "Diamond Package, Save 33%",
+    "package2": "Silver Package, Save 25%",
+    "package3": "Regular Package, Save 15%",
+    "cabincharge": "Based on Package",
+    "homefacilities": "For any Package",
+    "rapidservice": "If need provide Helicopter Sevice",
+    "service": "Dental Care Treatment",
+    "yearlycharge": "$ 5000",
+    "description": "Teeths are very important and take a important part in our body, so we should take care of it",
+    "img": "https://images.pexels.com/photos/305567/pexels-photo-305567.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+  },
+  {
+    "id": "03",
+    "package1": "Diamond Package, Save 33%",
+    "package2": "Silver Package, Save 25%",
+    "package3": "Regular Package, Save 15%",
+    "cabincharge": "Based on Package",
+    "homefacilities": "For any Package",
+    "rapidservice": "If need provide Helicopter Sevice",
+    "service": "Skin Care Treatment",
+    "yearlycharge": "$ 3000",
+    "description": "Skin is important for us, so we should take care of it. It's role is really important",
+    "img": "https://images.pexels.com/photos/6724316/pexels-photo-6724316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": "04",
+    "package1": "Diamond Package, Save 33%",
+    "package2": "Silver Package, Save 25%",
+    "package3": "Regular Package, Save 15%",
+    "cabincharge": "Based on Package",
+    "homefacilities": "For any Package",
+    "rapidservice": "If need provide Helicopter Sevice",
+    "service": "Cardiac Treatment",
+    "yearlycharge": "$ 8000",
+    "description": "Healthy heart is important for us, so we should take care of it. It's role is really important",
+    "img": "https://images.pexels.com/photos/5677704/pexels-photo-5677704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": "05",
+    "package1": "Diamond Package, Save 33%",
+    "package2": "Silver Package, Save 25%",
+    "package3": "Regular Package, Save 15%",
+    "cabincharge": "Based on Package",
+    "homefacilities": "For any Package",
+    "rapidservice": "If need provide Helicopter Sevice",
+    "service": "Arthritis & Pain Treatment",
+    "yearlycharge": "$ 5000",
+    "description": "During Arthritis it is really unexpected   situation for us, so we should take care of it.",
+    "img": "https://images.pexels.com/photos/3752834/pexels-photo-3752834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": "06",
+    "package1": "Diamond Package, Save 33%",
+    "package2": "Silver Package, Save 25%",
+    "package3": "Regular Package, Save 15%",
+    "cabincharge": "Based on Package",
+    "homefacilities": "For any Package",
+    "rapidservice": "If need provide Helicopter Sevice",
+    "service": "Diabetic Care & Treatment",
+    "yearlycharge": "$ 8000",
+    "description": "During Diabetis it is really unexpected   situation for us, so we should take care of it",
+    "img": "https://images.pexels.com/photos/6303710/pexels-photo-6303710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  }
+]

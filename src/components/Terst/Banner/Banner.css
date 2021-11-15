@@ -1,0 +1,43 @@
+.slider-custom{
+    max-width: 100%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    position: relative;
+}
+.overlay{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    padding: 0 15px;
+    z-index: 999;
+}
+.slick-prev:before{
+    color: black !important;
+}
+.slick-next:before{
+    color: black !important;
+}
+.carousel-caption{
+    bottom: 8.25rem !important;
+}
+.banner-contenet{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner-contenet h3{
+    color: white;
+}
+.input-box{
+    min-width: 100px;
+    max-width: 400px;
+    border: 1px solid gray;
+    display: flex;
+}
+.input-box input{
+    width: 200px;
+}

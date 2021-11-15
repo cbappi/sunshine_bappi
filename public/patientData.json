@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "name":"Mark Stew",
+    "testimonial": "I am Mark Stew from Boston, really happy with their cordial treatment and time to time necessary follow up and services and 5 Star review",
+    "img": "https://media.istockphoto.com/photos/portrait-of-a-mature-man-with-a-little-smile-at-the-camera-right-side-picture-id1277873802?b=1&k=20&m=1277873802&s=170667a&w=0&h=jkQ_v0-o10phanZhWxRn9QpvCAUKn8qwdWT5BtR9QWk="
+  },
+  {
+    "id": "2",
+    "name":"Jefry Mic",
+    "testimonial": "I am Jefry Mic from Atlanta, really happy with their cordial treatment and time to time necessary follow up and services and 4.5 Star review",
+    "img": "https://thumbs.dreamstime.com/b/portrait-handsome-year-old-man-home-blured-background-portrait-handsome-year-old-man-home-blured-background-139992560.jpg"
+  },
+  {
+    "id": "3",
+    "name":"Michele Hoffman",
+    "testimonial": "I am Hoffman from Dallas, really happy with their cordial treatment and time to time necessary follow up and services and 4.9 Star review",
+    "img": "https://media.istockphoto.com/photos/middle-aged-man-portrait-picture-id1285156699?b=1&k=20&m=1285156699&s=170667a&w=0&h=l8Bs_xHY2um7IUHKXj7szXvNDW5jMJmnLMuvQWO5vEo="
+  },
+  {
+    "id": "4",
+    "name":"K. Fort",
+    "testimonial": "I am K. Fort from Checago, really happy with their cordial treatment and time to time necessary follow up and services and 4.8 Star review",
+    "img": "https://thumbs.dreamstime.com/b/middle-age-handsome-man-wearing-casual-t-shirt-standing-over-isolated-white-background-happy-face-smiling-crossed-arms-middle-218388785.jpg"
+  },
+  {
+    "id": "5",
+    "name":"Terry Alderman",
+    "testimonial": "I am K. Fort from Checago, really happy with their cordial treatment and time to time necessary follow up and services and 4.8 Star review",
+    "img": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id": "6",
+    "name":"Merv Huge",
+    "testimonial": "I am Mark from NY, really happy with their cordial treatment and time to time necessary follow up and services and 4.5 Star review",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuiEqCwiS1pZHtBj42oL66WE5_ztNRHFGveA&usqp=CAU"
+  }
+  
+  
+]

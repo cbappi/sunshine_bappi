@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "name":"J. Andrew",
+    "designation": "Eya Specialist",
+    "img": "https://media.istockphoto.com/photos/portrait-of-confident-young-medical-doctor-on-blue-background-picture-id1161336374?k=20&m=1161336374&s=612x612&w=0&h=ER2Gs06udn4kBPUy8SwLQR2su0GsRWe0kRHZvDbcQCc="
+  },
+  {
+    "id": "2",
+    "name":"Michale Doglus",
+    "designation": "Skin Care Specialist",
+    "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?b=1&k=20&m=1203995945&s=170667a&w=0&h=W5pDpUgxdsBroe9aFgJUzR0Ess8xPUoST1ZjEvVRgEQ="
+  },
+  {
+    "id": "3",
+    "name":"Barturm Uster",
+    "designation": "Dental Specialist",
+    "img": "https://img.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": "4",
+    "name":"Jerry Co",
+    "designation": "Diabetic Specialist",
+    "img": " https://media.istockphoto.com/photos/my-patients-always-come-first-picture-id173547123?k=20&m=173547123&s=612x612&w=0&h=Pm20o4yAAxx0N_lUibPMZOouLq93PU1o7CCEbne8_Q0="
+  },
+  {
+    "id": "5",
+    "name":"Andrew Morgan",
+    "designation": "Injuery Specialist",
+    "img": "https://st3.depositphotos.com/10654668/13844/i/600/depositphotos_138445604-stock-photo-male-doctor-in-hospital.jpg"
+  },
+  {
+    "id": "6",
+    "name":"Nathan Ash",
+    "designation": "Cardio Specialist",
+    "img": "https://thumbs.dreamstime.com/b/outdoor-portrait-male-doctor-wearing-white-lab-coat-smiling-to-camera-35801901.jpg"
+  },
+  {
+    "id": "7",
+    "name":"J. Andrew",
+    "designation": "Eya Specialist",
+    "img": "https://media.istockphoto.com/photos/portrait-of-confident-young-medical-doctor-on-blue-background-picture-id1161336374?k=20&m=1161336374&s=612x612&w=0&h=ER2Gs06udn4kBPUy8SwLQR2su0GsRWe0kRHZvDbcQCc="
+  },
+  {
+    "id": "8",
+    "name": "Fiaz Taraq",
+    "designation": "Kidny Specialist",
+   
+    "img": "https://img.freepik.com/free-photo/doctor-standing-with-folder-stethoscope_1291-16.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": "9",
+    "name": "Rodny Hame",
+    "designation": "Gestro Specialist",
+
+
+    "img": "https://media.istockphoto.com/photos/portrait-of-a-doctor-picture-id92347287?k=20&m=92347287&s=612x612&w=0&h=_vPaOKo3wrZd8FG_Y9WR6yAa4OYXf8OXGRZ6X2qk6aM="
+  },
+  {
+    "id": "10",
+    "name": "Jase james",
+    "designation": "Medicine Specialist",
+  
+    "img": "https://st4.depositphotos.com/1017986/24362/i/600/depositphotos_243621928-stock-photo-smiling-indian-male-doctor-with.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Keny Harmen",
+    "designation": "Gestro Specialist",
+  
+    "img": "https://media.istockphoto.com/photos/portrait-of-happy-african-doctor-at-private-clinic-picture-id1189303662?k=20&m=1189303662&s=612x612&w=0&h=q3P08I8GlYRHIYFoN-h_WBM0PPGzO6ox4XJx8kxJRsc="
+  },
+  {
+    "id": "12",
+    "name": "Dino Joff",
+    "designation": "Eye Specialist",
+  
+    "img": "https://images.unsplash.com/photo-1612523138351-4643808db8f3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFsZSUyMGRvY3RvcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+  }
+]

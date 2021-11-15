@@ -1,0 +1,32 @@
+
+.footer-menu {
+  list-style: none;
+ 
+  font-size: 12px;
+
+}
+
+.item {
+  list-style: none;
+  text-decoration: none;
+
+  font-size: 25px;
+  font-weight: 200;
+  color: orange;
+  padding-top: 2px;
+  padding-bottom: 2px;
+
+}
+
+
+.item:hover {
+  color: white;
+}
+
+.footer-container {
+  background-color: #191919;
+  padding: 50px;
+  color: rgb(216, 209, 209);
+}
+
+
