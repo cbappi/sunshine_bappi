@@ -2,8 +2,8 @@
 
 This site can be included to car niche. If you are interested to buy luxary car then I think this site is good one , we not only sell car but also provide necessary info if ask us .
 
-Firebase deploy link - 
-Heroku Server Link -  
+fire base live link - https://assignmen-12.web.app/
+Heroku Server Link -  https://mysterious-dusk-85739.herokuapp.com/
 
 - private link INCLUIDE
 - route link include
